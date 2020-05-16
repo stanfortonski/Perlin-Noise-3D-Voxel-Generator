@@ -13,6 +13,7 @@ The positions are generating by Perlin Noise. This program do not generation one
 - Directional Shadows
 - Normal Mapping
 - Parallax Occlusion Mapping
+- Bloom/HDR effect
 
 ## Installation
 Install following packages via pip:
