@@ -1,0 +1,15 @@
+{
+    "app_name": "Perlin Noise 3D Voxel Generator",
+    "debug_mode": false,
+    "fullscreen": false,
+    "world_width": 40,
+    "world_height": 64,
+    "world_depth": 40,
+    "window_width": 1280,
+    "window_height": 720,
+    "shadow_width": 1024,
+    "shadow_height": 1024,
+    "near_plane": 0.1,
+    "far_plane": 1000,
+    "sampling_level": 4
+}
