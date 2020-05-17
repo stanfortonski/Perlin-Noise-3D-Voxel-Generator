@@ -36,5 +36,5 @@ ESC - to exit the program
 Open your terminal or CMD and call `python executable.py` or `python3 executable.py`
 
 ## Thanks
-I recommend you webiste with great amount of knowledge https://learnopengl.com. Thanks to the author Joey de Vries.
-Textures from https://textures.pixel-furnace.com.
+- I recommend you webiste with great amount of knowledge https://learnopengl.com. Thanks to the author Joey de Vries.
+- Textures from https://textures.pixel-furnace.com.
