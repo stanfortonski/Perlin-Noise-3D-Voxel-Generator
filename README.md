@@ -21,6 +21,7 @@ Install following packages via pip:
 2. GLFW: `pip install glfw`
 3. PyGLM: `pip install PyGLM`
 4. numpy: `pip install numpy`
+5. Pillow" `pip install Pillow`
 
 If you have errors after installation you will do following:
 1. `pip uninstall PyOpenGL PyOpenGL_accelerate`
